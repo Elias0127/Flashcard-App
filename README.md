@@ -12,6 +12,6 @@ The Flashcard App is a simple yet effective study tool built with SwiftUI. It al
 
 ## Demo
 <p align="center">
-  <img src="https://github.com/Elias0127/Flashcard-App/assets/86494198/6eb07068-c0ce-4aec-a74a-654f743fdd84" alt="Flashcard App Demo">
+  <img src="https://github.com/Elias0127/Flashcard-App/assets/86494198/6eb07068-c0ce-4aec-a74a-654f743fdd84" alt="Flashcard App Demo" width="300">
 </p>
 
