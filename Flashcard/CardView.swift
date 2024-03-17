@@ -79,6 +79,12 @@ struct CardView: View {
         )
         .opacity(isRemoved ? 0 : 1)
         .animation(.default, value: offset)
+        // Toggle the showing of question or answer on tap
+            .onTapGesture {
+                withAnimation {
+                    isShowingQuestion.toggle()
+                }
+            }
     }
 
 #if DEBUG
